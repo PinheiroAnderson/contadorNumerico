@@ -29,4 +29,4 @@ Este é um programa de contagem numérica simples, desenvolvido em HTML, CSS e J
 - **JavaScript**: Lógica de contagem, validação de entrada e alternância de temas.
 
 
-[Clique aqui](https://pinheiroanderson.github.io/contadorNumerico/)
+[Clique aqui](https://pinheiroanderson.github.io/contadorNumerico/) para testar.
